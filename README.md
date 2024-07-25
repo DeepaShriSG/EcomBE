@@ -1,4 +1,4 @@
-
+https://ecombe-gz7j.onrender.com
 
 ---
 
@@ -77,7 +77,7 @@ Welcome to the E-Commerce Backend API project. This is a RESTful API designed fo
     npm start
     ```
 
-The server will start on `http://localhost:3000` (or the port specified in your `.env` file).
+The server will start on `https://ecombe-gz7j.onrender.com`.
 
 ## API Endpoints
 
