@@ -1,0 +1,81 @@
+Authentication:
+ 
+     =>register
+     =>signin 
+     =>verify phonenum or email 
+     =>Resend Verification
+     =>Expiration and Validation
+
+
+User Flow:
+
+     =>Product Filtering and Sorting:
+     =>Product Reviews and Ratings:
+     =>Account Management:
+
+Admin Flow:
+    
+    =>Inventory Management:
+    =>Analytics and Reporting:
+    =>Customer Support:
+    =>Dashboard and Notifications:     
+    
+
+User Flow:
+
+
+
+ =>Product Filtering and Sorting:
+    Allow users to filter and sort products based on different criteria such as price, category, popularity, etc., to improve navigation and search experience.
+
+=>Product Reviews and Ratings:
+    Enable users to leave reviews and ratings for products they have purchased, helping other users make informed decisions.
+
+=>Account Management:
+    Provide users with the ability to update their profile information, change passwords, and manage email preferences.
+
+
+Admin Flow:
+    
+    =>Inventory Management:
+    =>Analytics and Reporting:
+    =>Customer Support:
+    =>Dashboard and Notifications:
+
+  
+
+=>Inventory Management:
+    Allow admins to track and manage product inventory, including stock levels, restocking alerts, and inventory adjustments.
+
+=>Analytics and Reporting:
+    Provide admins with insights into website performance, sales trends, user behavior, and other key metrics through analytics and reporting tools.
+ 
+=>Customer Support:
+   Implement features for admins to provide customer support, such as responding to inquiries, handling returns, and resolving issues.
+
+=>Dashboard and Notifications:
+   Create a centralized dashboard for admins to monitor website activity, view orders, manage products, and receive notifications about important events (e.g., new orders, low inventory).
+
+
+User Flow:
+register
+signin
+view products
+wishlist
+My orders 
+Offers 
+payment Integration 
+Order Confirmation 
+
+Admin Flow:
+Sign in 
+Add products 
+Check orders 
+disptach 
+Send message about delivery 
+Update the offers 
+
+
+
+
+
